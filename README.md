@@ -1,4 +1,4 @@
-# hello-world
+# git_practice
 Practice repo
 
 Hi, I'm 25 years old and I live in Omaha, NE with my two cats, Corby and Emma. 
